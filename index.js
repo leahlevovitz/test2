@@ -1,8 +1,9 @@
 const c=()=>{
-    console.log("cccccccc");
-    
+    console.log("cccccccc");   
 }
 const b=()=>{
-    console.log("bbbbbb");
-    
+    console.log("bbbbbb");    
+}
+const a=()=>{
+alert("are you sure")
 }
