@@ -1,6 +1,5 @@
 const c=()=>{
-    console.log("cccccccc");
-    
+    console.log("cccccccc");   
 }
 const b=()=>{
     console.log("bbbbbb");
@@ -9,3 +8,11 @@ const b=()=>{
 const w=()=>{
     alert("www")
 }
+
+const aa=()=>{
+    console.log("aaaaa");    
+}
+// const a=()=>{
+// alert("are you sure")
+// }
+
