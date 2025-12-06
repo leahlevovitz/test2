@@ -10,7 +10,7 @@ const w=()=>{
 }
 
 const aa=()=>{
-    console.log("aaaaa");    
+    alert("aaaaa");    
 }
 // const a=()=>{
 // alert("are you sure")
