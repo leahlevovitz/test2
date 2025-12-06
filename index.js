@@ -6,3 +6,6 @@ const b=()=>{
     console.log("bbbbbb");
     
 }
+const w=()=>{
+    alert("www")
+}
