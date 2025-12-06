@@ -1,3 +1,4 @@
 This is some text file
 anouther line
 Hello from branch2
+Hello from branch1
