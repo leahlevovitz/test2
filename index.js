@@ -1,7 +1,7 @@
 const c=()=>{
     console.log("cccccccc");   
 }
-const a=()=>{
+const aa=()=>{
     console.log("aaaaa");    
 }
 // const a=()=>{
