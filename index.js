@@ -8,6 +8,7 @@ const b=()=>{
 const w=()=>{
     alert("www")
 }
+console.log("hay");    
 
 const aa=()=>{
     console.log("aaaaa");    
